@@ -1,11 +1,11 @@
-aseurl = "https://example.com/"
-title = "Shayon's Scrapbook V1"
+aseurl = "https://scrapbook.shayonkhaled.com/"
+title = "shayon's scrapbook V1"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
-  titleCutting = true
+
 
   # Set the animation style -- https://animate.style/
   # To disable animations, please remove or comment animationStyle parameter
@@ -17,5 +17,5 @@ languageCode = "en-us"
 
 
   [[params.navlinks]]
-  name = "Go back to main site/"
+  name = "go back to main site/"
   url = "https://www.shayonkhaled.com"
