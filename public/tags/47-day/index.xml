@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>47-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>//localhost:1313/tags/47-day/</link>
+    <link>/tags/47-day/</link>
     <description>Recent content in 47-Day on Shayon&#39;s Scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/47-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/47-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Toasted flight controller, FPV RC car</title>
-      <link>//localhost:1313/posts/toasted-flight-controller-fpv-rc-car/</link>
+      <link>/posts/toasted-flight-controller-fpv-rc-car/</link>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/toasted-flight-controller-fpv-rc-car/</guid>
+      <guid>/posts/toasted-flight-controller-fpv-rc-car/</guid>
       <description></description>
     </item>
   </channel>

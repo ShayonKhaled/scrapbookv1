@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>23-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>//localhost:1313/tags/23-day/</link>
+    <link>/tags/23-day/</link>
     <description>Recent content in 23-Day on Shayon&#39;s Scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/23-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/23-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fixed</title>
-      <link>//localhost:1313/posts/fixed/</link>
+      <link>/posts/fixed/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/fixed/</guid>
+      <guid>/posts/fixed/</guid>
       <description></description>
     </item>
   </channel>

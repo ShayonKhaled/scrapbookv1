@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>8-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>//localhost:1313/tags/8-day/</link>
+    <link>/tags/8-day/</link>
     <description>Recent content in 8-Day on Shayon&#39;s Scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/8-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/8-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#39;sup</title>
-      <link>//localhost:1313/posts/sup/</link>
+      <link>/posts/sup/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/sup/</guid>
+      <guid>/posts/sup/</guid>
       <description></description>
     </item>
     <item>
       <title>Schematic</title>
-      <link>//localhost:1313/posts/schematic/</link>
+      <link>/posts/schematic/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/schematic/</guid>
+      <guid>/posts/schematic/</guid>
       <description></description>
     </item>
     <item>
       <title>Pretty colors</title>
-      <link>//localhost:1313/posts/pretty-colors/</link>
+      <link>/posts/pretty-colors/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/pretty-colors/</guid>
+      <guid>/posts/pretty-colors/</guid>
       <description></description>
     </item>
     <item>
       <title>New project idea, Aliexpress haul</title>
-      <link>//localhost:1313/posts/new-project-idea-aliexpress-haul/</link>
+      <link>/posts/new-project-idea-aliexpress-haul/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/new-project-idea-aliexpress-haul/</guid>
+      <guid>/posts/new-project-idea-aliexpress-haul/</guid>
       <description></description>
     </item>
     <item>
       <title>CNC Assembly!</title>
-      <link>//localhost:1313/posts/cnc-assembly/</link>
+      <link>/posts/cnc-assembly/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/cnc-assembly/</guid>
+      <guid>/posts/cnc-assembly/</guid>
       <description></description>
     </item>
   </channel>

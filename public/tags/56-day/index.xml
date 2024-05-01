@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>56-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>//localhost:1313/tags/56-day/</link>
+    <link>/tags/56-day/</link>
     <description>Recent content in 56-Day on Shayon&#39;s Scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/56-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/56-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cooking, reading</title>
-      <link>//localhost:1313/posts/cooking-reading/</link>
+      <link>/posts/cooking-reading/</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/cooking-reading/</guid>
+      <guid>/posts/cooking-reading/</guid>
       <description></description>
     </item>
   </channel>

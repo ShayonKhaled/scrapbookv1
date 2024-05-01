@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>//localhost:1313/tags/4-day/</link>
+    <link>/tags/4-day/</link>
     <description>Recent content in 4-Day on Shayon&#39;s Scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/4-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/4-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sriracha</title>
-      <link>//localhost:1313/posts/sriracha/</link>
+      <link>/posts/sriracha/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/sriracha/</guid>
+      <guid>/posts/sriracha/</guid>
       <description></description>
     </item>
     <item>
       <title>PCBs</title>
-      <link>//localhost:1313/posts/pcbs/</link>
+      <link>/posts/pcbs/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/pcbs/</guid>
+      <guid>/posts/pcbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Even more CAD</title>
-      <link>//localhost:1313/posts/even-more-cad/</link>
+      <link>/posts/even-more-cad/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/even-more-cad/</guid>
+      <guid>/posts/even-more-cad/</guid>
       <description></description>
     </item>
     <item>
       <title>First tinywhoop</title>
-      <link>//localhost:1313/posts/first-tinywhoop/</link>
+      <link>/posts/first-tinywhoop/</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/first-tinywhoop/</guid>
+      <guid>/posts/first-tinywhoop/</guid>
       <description></description>
     </item>
     <item>
       <title>Wrote, Read, Contemplated</title>
-      <link>//localhost:1313/posts/wrote-read-contemplated/</link>
+      <link>/posts/wrote-read-contemplated/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/wrote-read-contemplated/</guid>
+      <guid>/posts/wrote-read-contemplated/</guid>
       <description></description>
     </item>
   </channel>

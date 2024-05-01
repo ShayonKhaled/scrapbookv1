@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>18-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>//localhost:1313/tags/18-day/</link>
+    <link>/tags/18-day/</link>
     <description>Recent content in 18-Day on Shayon&#39;s Scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/18-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/18-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JLCPCB, Fake FPGA, Photography</title>
-      <link>//localhost:1313/posts/jlcpcb-fake-fpga-photography/</link>
+      <link>/posts/jlcpcb-fake-fpga-photography/</link>
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/jlcpcb-fake-fpga-photography/</guid>
+      <guid>/posts/jlcpcb-fake-fpga-photography/</guid>
       <description></description>
     </item>
   </channel>

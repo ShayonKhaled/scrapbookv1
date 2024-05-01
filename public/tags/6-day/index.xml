@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>//localhost:1313/tags/6-day/</link>
+    <link>/tags/6-day/</link>
     <description>Recent content in 6-Day on Shayon&#39;s Scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/6-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/6-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Restarted</title>
-      <link>//localhost:1313/posts/restarted/</link>
+      <link>/posts/restarted/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/restarted/</guid>
+      <guid>/posts/restarted/</guid>
       <description></description>
     </item>
     <item>
       <title>CAN&#39;t, why?</title>
-      <link>//localhost:1313/posts/cant-why/</link>
+      <link>/posts/cant-why/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/cant-why/</guid>
+      <guid>/posts/cant-why/</guid>
       <description></description>
     </item>
     <item>
       <title>Multiple TFT displays</title>
-      <link>//localhost:1313/posts/multiple-tft-displays/</link>
+      <link>/posts/multiple-tft-displays/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/multiple-tft-displays/</guid>
+      <guid>/posts/multiple-tft-displays/</guid>
       <description></description>
     </item>
     <item>
       <title>Coding, printing, CNC, piano-playing robot</title>
-      <link>//localhost:1313/posts/coding-printing-cnc-piano-playing-robot/</link>
+      <link>/posts/coding-printing-cnc-piano-playing-robot/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/coding-printing-cnc-piano-playing-robot/</guid>
+      <guid>/posts/coding-printing-cnc-piano-playing-robot/</guid>
       <description></description>
     </item>
     <item>
       <title>Tired, good deal</title>
-      <link>//localhost:1313/posts/tired-good-deal/</link>
+      <link>/posts/tired-good-deal/</link>
       <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/tired-good-deal/</guid>
+      <guid>/posts/tired-good-deal/</guid>
       <description></description>
     </item>
   </channel>

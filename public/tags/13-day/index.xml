@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>13-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>//localhost:1313/tags/13-day/</link>
+    <link>/tags/13-day/</link>
     <description>Recent content in 13-Day on Shayon&#39;s Scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/13-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/13-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aesthetic PCBs</title>
-      <link>//localhost:1313/posts/aesthetic-pcbs/</link>
+      <link>/posts/aesthetic-pcbs/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/aesthetic-pcbs/</guid>
+      <guid>/posts/aesthetic-pcbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Happy Birthday, Laptop Stand</title>
-      <link>//localhost:1313/posts/happy-birthday-laptop-stand/</link>
+      <link>/posts/happy-birthday-laptop-stand/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/happy-birthday-laptop-stand/</guid>
+      <guid>/posts/happy-birthday-laptop-stand/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>15-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>//localhost:1313/tags/15-day/</link>
+    <link>/tags/15-day/</link>
     <description>Recent content in 15-Day on Shayon&#39;s Scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/15-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/15-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kyoto Tower</title>
-      <link>//localhost:1313/posts/kyoto-tower/</link>
+      <link>/posts/kyoto-tower/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/kyoto-tower/</guid>
+      <guid>/posts/kyoto-tower/</guid>
       <description></description>
     </item>
     <item>
       <title>Watched, read, China?</title>
-      <link>//localhost:1313/posts/watched-read-china/</link>
+      <link>/posts/watched-read-china/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/watched-read-china/</guid>
+      <guid>/posts/watched-read-china/</guid>
       <description></description>
     </item>
   </channel>
