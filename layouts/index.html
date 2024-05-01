@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<p>🔨✨🚀</p>
+
+<p>
+Here, I try to share little snippets of everything – building, tinkering, and the magical things that fill my everyday life. Click on the title to read!
+</p>
+<br/>
+
+<h1>Entries</h1>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/posts" }}
+    {{ range first 200 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
+
+<h1>Thanks for dropping by, now go out there and build amazing things! がんばって！ 🦾</h1>
+
+{{ end }}
