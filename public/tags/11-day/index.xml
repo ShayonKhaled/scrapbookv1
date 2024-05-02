@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>11-Day on shayon&#39;s scrapbook V1</title>
-    <link>//localhost:1313/tags/11-day/</link>
+    <link>/tags/11-day/</link>
     <description>Recent content in 11-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/11-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/11-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sleepless nights</title>
-      <link>//localhost:1313/posts/sleepless-nights/</link>
+      <link>/posts/sleepless-nights/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/sleepless-nights/</guid>
+      <guid>/posts/sleepless-nights/</guid>
       <description></description>
     </item>
     <item>
       <title>Prototyping</title>
-      <link>//localhost:1313/posts/prototyping/</link>
+      <link>/posts/prototyping/</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/prototyping/</guid>
+      <guid>/posts/prototyping/</guid>
       <description></description>
     </item>
     <item>
       <title>Coding, all-nighters</title>
-      <link>//localhost:1313/posts/coding-all-nighters/</link>
+      <link>/posts/coding-all-nighters/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/coding-all-nighters/</guid>
+      <guid>/posts/coding-all-nighters/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1-Day on shayon&#39;s scrapbook V1</title>
-    <link>//localhost:1313/tags/1-day/</link>
+    <link>/tags/1-day/</link>
     <description>Recent content in 1-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/1-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/1-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Updated scrapbook</title>
-      <link>//localhost:1313/posts/updated-scrapbook/</link>
+      <link>/posts/updated-scrapbook/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/updated-scrapbook/</guid>
+      <guid>/posts/updated-scrapbook/</guid>
       <description></description>
     </item>
     <item>
       <title>Essays</title>
-      <link>//localhost:1313/posts/essays/</link>
+      <link>/posts/essays/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/essays/</guid>
+      <guid>/posts/essays/</guid>
       <description></description>
     </item>
     <item>
       <title>Shadowing</title>
-      <link>//localhost:1313/posts/shadowing/</link>
+      <link>/posts/shadowing/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/shadowing/</guid>
+      <guid>/posts/shadowing/</guid>
       <description></description>
     </item>
     <item>
       <title>Slow progress</title>
-      <link>//localhost:1313/posts/slow-progress/</link>
+      <link>/posts/slow-progress/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/slow-progress/</guid>
+      <guid>/posts/slow-progress/</guid>
       <description></description>
     </item>
     <item>
       <title>Sayonara dorm</title>
-      <link>//localhost:1313/posts/sayonara-dorm/</link>
+      <link>/posts/sayonara-dorm/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/sayonara-dorm/</guid>
+      <guid>/posts/sayonara-dorm/</guid>
       <description></description>
     </item>
     <item>
       <title>Hmm</title>
-      <link>//localhost:1313/posts/hmm/</link>
+      <link>/posts/hmm/</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/hmm/</guid>
+      <guid>/posts/hmm/</guid>
       <description></description>
     </item>
     <item>
       <title>Resurrection, dahek?</title>
-      <link>//localhost:1313/posts/resurrection-dahek/</link>
+      <link>/posts/resurrection-dahek/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/resurrection-dahek/</guid>
+      <guid>/posts/resurrection-dahek/</guid>
       <description></description>
     </item>
     <item>
       <title>CAN, can I?</title>
-      <link>//localhost:1313/posts/can-can-i/</link>
+      <link>/posts/can-can-i/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/can-can-i/</guid>
+      <guid>/posts/can-can-i/</guid>
       <description></description>
     </item>
     <item>
       <title>Back again, ruined an OLED</title>
-      <link>//localhost:1313/posts/back-again-ruined-an-oled/</link>
+      <link>/posts/back-again-ruined-an-oled/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/back-again-ruined-an-oled/</guid>
+      <guid>/posts/back-again-ruined-an-oled/</guid>
       <description></description>
     </item>
     <item>
       <title>Podcast</title>
-      <link>//localhost:1313/posts/podcast/</link>
+      <link>/posts/podcast/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/podcast/</guid>
+      <guid>/posts/podcast/</guid>
       <description></description>
     </item>
     <item>
       <title>New Website</title>
-      <link>//localhost:1313/posts/built/</link>
+      <link>/posts/built/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/built/</guid>
+      <guid>/posts/built/</guid>
       <description></description>
     </item>
     <item>
       <title>Wrote, designed, printed</title>
-      <link>//localhost:1313/posts/wrote-designed-printed/</link>
+      <link>/posts/wrote-designed-printed/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/wrote-designed-printed/</guid>
+      <guid>/posts/wrote-designed-printed/</guid>
       <description></description>
     </item>
   </channel>

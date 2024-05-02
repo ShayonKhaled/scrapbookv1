@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>33-Day on shayon&#39;s scrapbook V1</title>
-    <link>//localhost:1313/tags/33-day/</link>
+    <link>/tags/33-day/</link>
     <description>Recent content in 33-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/33-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/33-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fixed, CNC again</title>
-      <link>//localhost:1313/posts/fixed-cnc-again/</link>
+      <link>/posts/fixed-cnc-again/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/fixed-cnc-again/</guid>
+      <guid>/posts/fixed-cnc-again/</guid>
       <description></description>
     </item>
   </channel>

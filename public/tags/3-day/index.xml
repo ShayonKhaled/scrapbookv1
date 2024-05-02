@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3-Day on shayon&#39;s scrapbook V1</title>
-    <link>//localhost:1313/tags/3-day/</link>
+    <link>/tags/3-day/</link>
     <description>Recent content in 3-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/3-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/3-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bicycle</title>
-      <link>//localhost:1313/posts/bicycle/</link>
+      <link>/posts/bicycle/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/bicycle/</guid>
+      <guid>/posts/bicycle/</guid>
       <description></description>
     </item>
     <item>
       <title>Car ECU Simulator</title>
-      <link>//localhost:1313/posts/car-ecu-simulator/</link>
+      <link>/posts/car-ecu-simulator/</link>
       <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/car-ecu-simulator/</guid>
+      <guid>/posts/car-ecu-simulator/</guid>
       <description></description>
     </item>
     <item>
       <title>Gym</title>
-      <link>//localhost:1313/posts/gym/</link>
+      <link>/posts/gym/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/gym/</guid>
+      <guid>/posts/gym/</guid>
       <description></description>
     </item>
     <item>
       <title>More CAD</title>
-      <link>//localhost:1313/posts/more-cad/</link>
+      <link>/posts/more-cad/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/more-cad/</guid>
+      <guid>/posts/more-cad/</guid>
       <description></description>
     </item>
     <item>
       <title>Unproductive day, scavenged (almost)</title>
-      <link>//localhost:1313/posts/unproductive-day-scavenged-almost/</link>
+      <link>/posts/unproductive-day-scavenged-almost/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/unproductive-day-scavenged-almost/</guid>
+      <guid>/posts/unproductive-day-scavenged-almost/</guid>
       <description></description>
     </item>
     <item>
       <title>Wrote</title>
-      <link>//localhost:1313/posts/wrote/</link>
+      <link>/posts/wrote/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/wrote/</guid>
+      <guid>/posts/wrote/</guid>
       <description></description>
     </item>
   </channel>

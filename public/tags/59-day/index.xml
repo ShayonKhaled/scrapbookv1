@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>59-Day on shayon&#39;s scrapbook V1</title>
-    <link>//localhost:1313/tags/59-day/</link>
+    <link>/tags/59-day/</link>
     <description>Recent content in 59-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/59-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/59-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Makezine, Coding</title>
-      <link>//localhost:1313/posts/makezine-coding/</link>
+      <link>/posts/makezine-coding/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/makezine-coding/</guid>
+      <guid>/posts/makezine-coding/</guid>
       <description></description>
     </item>
   </channel>
