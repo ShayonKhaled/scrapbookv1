@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>12-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>/tags/12-day/</link>
-    <description>Recent content in 12-Day on Shayon&#39;s Scrapbook V1</description>
+    <title>12-Day on shayon&#39;s scrapbook V1</title>
+    <link>//localhost:1313/tags/12-day/</link>
+    <description>Recent content in 12-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/12-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/12-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>終わりました</title>
-      <link>/posts/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <link>//localhost:1313/posts/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <guid>//localhost:1313/posts/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
       <description></description>
     </item>
     <item>
       <title>Eyes</title>
-      <link>/posts/eyes/</link>
+      <link>//localhost:1313/posts/eyes/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/eyes/</guid>
+      <guid>//localhost:1313/posts/eyes/</guid>
       <description></description>
     </item>
     <item>
       <title>Post-all-nighter memory</title>
-      <link>/posts/post-all-nighter-memory/</link>
+      <link>//localhost:1313/posts/post-all-nighter-memory/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/post-all-nighter-memory/</guid>
+      <guid>//localhost:1313/posts/post-all-nighter-memory/</guid>
       <description></description>
     </item>
   </channel>

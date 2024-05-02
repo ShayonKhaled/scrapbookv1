@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>17-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>/tags/17-day/</link>
-    <description>Recent content in 17-Day on Shayon&#39;s Scrapbook V1</description>
+    <title>17-Day on shayon&#39;s scrapbook V1</title>
+    <link>//localhost:1313/tags/17-day/</link>
+    <description>Recent content in 17-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/17-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/17-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hybrid work, 3D printing, fun (Pt. 1)</title>
-      <link>/posts/hybrid-work-3d-printing-fun-pt-1/</link>
+      <link>//localhost:1313/posts/hybrid-work-3d-printing-fun-pt-1/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/hybrid-work-3d-printing-fun-pt-1/</guid>
+      <guid>//localhost:1313/posts/hybrid-work-3d-printing-fun-pt-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Hybrid work, 3D printing, fun (Pt. 2)</title>
-      <link>/posts/hybrid-work-3d-printing-fun-pt-2/</link>
+      <link>//localhost:1313/posts/hybrid-work-3d-printing-fun-pt-2/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/hybrid-work-3d-printing-fun-pt-2/</guid>
+      <guid>//localhost:1313/posts/hybrid-work-3d-printing-fun-pt-2/</guid>
       <description></description>
     </item>
   </channel>

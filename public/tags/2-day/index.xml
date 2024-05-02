@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>/tags/2-day/</link>
-    <description>Recent content in 2-Day on Shayon&#39;s Scrapbook V1</description>
+    <title>2-Day on shayon&#39;s scrapbook V1</title>
+    <link>//localhost:1313/tags/2-day/</link>
+    <description>Recent content in 2-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/2-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/2-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>焼きおにぎり, blinky</title>
-      <link>/posts/%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-blinky/</link>
+      <link>//localhost:1313/posts/%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-blinky/</link>
       <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-blinky/</guid>
+      <guid>//localhost:1313/posts/%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-blinky/</guid>
       <description></description>
     </item>
     <item>
       <title>Pretty skies</title>
-      <link>/posts/pretty-sky/</link>
+      <link>//localhost:1313/posts/pretty-sky/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/pretty-sky/</guid>
+      <guid>//localhost:1313/posts/pretty-sky/</guid>
       <description></description>
     </item>
     <item>
       <title>Typewriter</title>
-      <link>/posts/typewriter/</link>
+      <link>//localhost:1313/posts/typewriter/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/typewriter/</guid>
+      <guid>//localhost:1313/posts/typewriter/</guid>
       <description></description>
     </item>
     <item>
       <title>&#34;Persistens pays off&#34;</title>
-      <link>/posts/persistens-pays-off/</link>
+      <link>//localhost:1313/posts/persistens-pays-off/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/persistens-pays-off/</guid>
+      <guid>//localhost:1313/posts/persistens-pays-off/</guid>
       <description></description>
     </item>
     <item>
       <title>🔥 Quitting FPV</title>
-      <link>/posts/-quitting-fpv/</link>
+      <link>//localhost:1313/posts/-quitting-fpv/</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/-quitting-fpv/</guid>
+      <guid>//localhost:1313/posts/-quitting-fpv/</guid>
       <description></description>
     </item>
     <item>
       <title>よかったです</title>
-      <link>/posts/%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A7%E3%81%99/</link>
+      <link>//localhost:1313/posts/%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A7%E3%81%99/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A7%E3%81%99/</guid>
+      <guid>//localhost:1313/posts/%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A7%E3%81%99/</guid>
       <description></description>
     </item>
     <item>
       <title>CAD-ing connectors, sunrise</title>
-      <link>/posts/cad-ing-connectors-sunrise/</link>
+      <link>//localhost:1313/posts/cad-ing-connectors-sunrise/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/cad-ing-connectors-sunrise/</guid>
+      <guid>//localhost:1313/posts/cad-ing-connectors-sunrise/</guid>
       <description></description>
     </item>
     <item>
       <title>Fixed, printed, read</title>
-      <link>/posts/fixed-printed-read/</link>
+      <link>//localhost:1313/posts/fixed-printed-read/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/fixed-printed-read/</guid>
+      <guid>//localhost:1313/posts/fixed-printed-read/</guid>
       <description></description>
     </item>
     <item>
       <title>Learnt PCB fabrication, designed, printed</title>
-      <link>/posts/learnt-pcb-fabrication-designed-printed/</link>
+      <link>//localhost:1313/posts/learnt-pcb-fabrication-designed-printed/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/learnt-pcb-fabrication-designed-printed/</guid>
+      <guid>//localhost:1313/posts/learnt-pcb-fabrication-designed-printed/</guid>
       <description></description>
     </item>
   </channel>

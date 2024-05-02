@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>8-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>/tags/8-day/</link>
-    <description>Recent content in 8-Day on Shayon&#39;s Scrapbook V1</description>
+    <title>8-Day on shayon&#39;s scrapbook V1</title>
+    <link>//localhost:1313/tags/8-day/</link>
+    <description>Recent content in 8-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/8-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/8-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#39;sup</title>
-      <link>/posts/sup/</link>
+      <link>//localhost:1313/posts/sup/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/sup/</guid>
+      <guid>//localhost:1313/posts/sup/</guid>
       <description></description>
     </item>
     <item>
       <title>Schematic</title>
-      <link>/posts/schematic/</link>
+      <link>//localhost:1313/posts/schematic/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/schematic/</guid>
+      <guid>//localhost:1313/posts/schematic/</guid>
       <description></description>
     </item>
     <item>
       <title>Pretty colors</title>
-      <link>/posts/pretty-colors/</link>
+      <link>//localhost:1313/posts/pretty-colors/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/pretty-colors/</guid>
+      <guid>//localhost:1313/posts/pretty-colors/</guid>
       <description></description>
     </item>
     <item>
       <title>New project idea, Aliexpress haul</title>
-      <link>/posts/new-project-idea-aliexpress-haul/</link>
+      <link>//localhost:1313/posts/new-project-idea-aliexpress-haul/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/new-project-idea-aliexpress-haul/</guid>
+      <guid>//localhost:1313/posts/new-project-idea-aliexpress-haul/</guid>
       <description></description>
     </item>
     <item>
       <title>CNC Assembly!</title>
-      <link>/posts/cnc-assembly/</link>
+      <link>//localhost:1313/posts/cnc-assembly/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/cnc-assembly/</guid>
+      <guid>//localhost:1313/posts/cnc-assembly/</guid>
       <description></description>
     </item>
   </channel>

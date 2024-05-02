@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>83-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>/tags/83-day/</link>
-    <description>Recent content in 83-Day on Shayon&#39;s Scrapbook V1</description>
+    <title>83-Day on shayon&#39;s scrapbook V1</title>
+    <link>//localhost:1313/tags/83-day/</link>
+    <description>Recent content in 83-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/83-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/83-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading, filming</title>
-      <link>/posts/reading-filming/</link>
+      <link>//localhost:1313/posts/reading-filming/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/reading-filming/</guid>
+      <guid>//localhost:1313/posts/reading-filming/</guid>
       <description></description>
     </item>
   </channel>

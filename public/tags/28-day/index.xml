@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>28-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>/tags/28-day/</link>
-    <description>Recent content in 28-Day on Shayon&#39;s Scrapbook V1</description>
+    <title>28-Day on shayon&#39;s scrapbook V1</title>
+    <link>//localhost:1313/tags/28-day/</link>
+    <description>Recent content in 28-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/28-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/28-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robot Operating System</title>
-      <link>/posts/robot-operating-system/</link>
+      <link>//localhost:1313/posts/robot-operating-system/</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/robot-operating-system/</guid>
+      <guid>//localhost:1313/posts/robot-operating-system/</guid>
       <description></description>
     </item>
   </channel>

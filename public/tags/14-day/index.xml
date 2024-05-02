@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>14-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>/tags/14-day/</link>
-    <description>Recent content in 14-Day on Shayon&#39;s Scrapbook V1</description>
+    <title>14-Day on shayon&#39;s scrapbook V1</title>
+    <link>//localhost:1313/tags/14-day/</link>
+    <description>Recent content in 14-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/14-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/14-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New modules, MMU2S さよなら</title>
-      <link>/posts/new-modules-mmu2s-%E3%81%95%E3%82%88%E3%81%AA%E3%82%89/</link>
+      <link>//localhost:1313/posts/new-modules-mmu2s-%E3%81%95%E3%82%88%E3%81%AA%E3%82%89/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/new-modules-mmu2s-%E3%81%95%E3%82%88%E3%81%AA%E3%82%89/</guid>
+      <guid>//localhost:1313/posts/new-modules-mmu2s-%E3%81%95%E3%82%88%E3%81%AA%E3%82%89/</guid>
       <description></description>
     </item>
     <item>
       <title>Open Campus Day</title>
-      <link>/posts/open-campus-day/</link>
+      <link>//localhost:1313/posts/open-campus-day/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/open-campus-day/</guid>
+      <guid>//localhost:1313/posts/open-campus-day/</guid>
       <description></description>
     </item>
   </channel>

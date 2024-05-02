@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>69-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>/tags/69-day/</link>
-    <description>Recent content in 69-Day on Shayon&#39;s Scrapbook V1</description>
+    <title>69-Day on shayon&#39;s scrapbook V1</title>
+    <link>//localhost:1313/tags/69-day/</link>
+    <description>Recent content in 69-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/69-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/69-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sunrise, coursework, ASME</title>
-      <link>/posts/sunrise-coursework-asme/</link>
+      <link>//localhost:1313/posts/sunrise-coursework-asme/</link>
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/sunrise-coursework-asme/</guid>
+      <guid>//localhost:1313/posts/sunrise-coursework-asme/</guid>
       <description></description>
     </item>
   </channel>

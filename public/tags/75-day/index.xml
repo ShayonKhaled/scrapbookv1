@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>75-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>/tags/75-day/</link>
-    <description>Recent content in 75-Day on Shayon&#39;s Scrapbook V1</description>
+    <title>75-Day on shayon&#39;s scrapbook V1</title>
+    <link>//localhost:1313/tags/75-day/</link>
+    <description>Recent content in 75-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/75-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/75-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photo tent</title>
-      <link>/posts/photo-tent/</link>
+      <link>//localhost:1313/posts/photo-tent/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/photo-tent/</guid>
+      <guid>//localhost:1313/posts/photo-tent/</guid>
       <description></description>
     </item>
   </channel>

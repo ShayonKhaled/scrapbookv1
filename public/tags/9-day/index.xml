@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>9-Day on Shayon&#39;s Scrapbook V1</title>
-    <link>/tags/9-day/</link>
-    <description>Recent content in 9-Day on Shayon&#39;s Scrapbook V1</description>
+    <title>9-Day on shayon&#39;s scrapbook V1</title>
+    <link>//localhost:1313/tags/9-day/</link>
+    <description>Recent content in 9-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/9-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/9-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main board</title>
-      <link>/posts/main-board/</link>
+      <link>//localhost:1313/posts/main-board/</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/main-board/</guid>
+      <guid>//localhost:1313/posts/main-board/</guid>
       <description></description>
     </item>
     <item>
       <title>Two displays!</title>
-      <link>/posts/two-displays/</link>
+      <link>//localhost:1313/posts/two-displays/</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/two-displays/</guid>
+      <guid>//localhost:1313/posts/two-displays/</guid>
       <description></description>
     </item>
     <item>
       <title>Broken Connector, Windows 11, JLCPCB</title>
-      <link>/posts/broken-connector-windows-11-jlcpcb/</link>
+      <link>//localhost:1313/posts/broken-connector-windows-11-jlcpcb/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/broken-connector-windows-11-jlcpcb/</guid>
+      <guid>//localhost:1313/posts/broken-connector-windows-11-jlcpcb/</guid>
       <description></description>
     </item>
     <item>
       <title>258 grams</title>
-      <link>/posts/258-grams/</link>
+      <link>//localhost:1313/posts/258-grams/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/258-grams/</guid>
+      <guid>//localhost:1313/posts/258-grams/</guid>
       <description></description>
     </item>
   </channel>
