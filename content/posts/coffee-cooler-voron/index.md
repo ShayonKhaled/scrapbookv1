@@ -11,6 +11,6 @@ Besides that, I spent the day mostly printing some more parts of the Voron V0. I
 
 Anyway, I'm kind of enjoying the process. Printing in ABS was a huge pain in the neck in the beginning because my Z offset wouldn't work no matter what. Later, I found out, the inductive sensor had a somewhat big temperature drift and needed to be callibrated in exactly the same ambient temperature the print would be done in. After that, it's been pretty straightforward. 
 
-I also have to decide on which toolhead to go with, as well. I want to go direct drive. Sure, it's heavier. But I'm not really planning on going extremely fast with it for that to matter anyway.
+I have to decide on which toolhead to go with as well. I want to go direct drive. Sure, it's heavier. But I'm not really planning on going extremely fast with it for that to matter anyway.
 
 So many choices to make. Let's see. 
