@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>16-Day on shayon&#39;s scrapbook V1</title>
-    <link>/tags/16-day/</link>
+    <link>//localhost:1313/tags/16-day/</link>
     <description>Recent content in 16-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/16-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/16-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>/posts/books/</link>
+      <link>//localhost:1313/posts/books/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/books/</guid>
+      <guid>//localhost:1313/posts/books/</guid>
       <description></description>
     </item>
     <item>
       <title>SDR, new desk setup,  DFM, Shanzhai and Gongkai</title>
-      <link>/posts/sdr-new-desk-setup-dfm-shanzhai-and-gokai/</link>
+      <link>//localhost:1313/posts/sdr-new-desk-setup-dfm-shanzhai-and-gokai/</link>
       <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/sdr-new-desk-setup-dfm-shanzhai-and-gokai/</guid>
+      <guid>//localhost:1313/posts/sdr-new-desk-setup-dfm-shanzhai-and-gokai/</guid>
       <description></description>
     </item>
   </channel>

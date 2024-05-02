@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>64-Day on shayon&#39;s scrapbook V1</title>
-    <link>/tags/64-day/</link>
+    <link>//localhost:1313/tags/64-day/</link>
     <description>Recent content in 64-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/64-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/64-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unproductive day</title>
-      <link>/posts/unproductive-day/</link>
+      <link>//localhost:1313/posts/unproductive-day/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/unproductive-day/</guid>
+      <guid>//localhost:1313/posts/unproductive-day/</guid>
       <description></description>
     </item>
   </channel>

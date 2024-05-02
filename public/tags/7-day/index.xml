@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7-Day on shayon&#39;s scrapbook V1</title>
-    <link>/tags/7-day/</link>
+    <link>//localhost:1313/tags/7-day/</link>
     <description>Recent content in 7-Day on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/7-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/7-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>18650, switch</title>
-      <link>/posts/18650-switch/</link>
+      <link>//localhost:1313/posts/18650-switch/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/18650-switch/</guid>
+      <guid>//localhost:1313/posts/18650-switch/</guid>
       <description></description>
     </item>
     <item>
       <title>?</title>
-      <link>/posts/490/</link>
+      <link>//localhost:1313/posts/490/</link>
       <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/490/</guid>
+      <guid>//localhost:1313/posts/490/</guid>
       <description></description>
     </item>
     <item>
       <title>Heated deez nutz</title>
-      <link>/posts/screws/</link>
+      <link>//localhost:1313/posts/screws/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/screws/</guid>
+      <guid>//localhost:1313/posts/screws/</guid>
       <description></description>
     </item>
     <item>
       <title>GreatScott, LiFePo4 VMware</title>
-      <link>/posts/greatscott-lifepo4-vmware/</link>
+      <link>//localhost:1313/posts/greatscott-lifepo4-vmware/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/greatscott-lifepo4-vmware/</guid>
+      <guid>//localhost:1313/posts/greatscott-lifepo4-vmware/</guid>
       <description></description>
     </item>
     <item>
       <title>Published, CNC Assembly?</title>
-      <link>/posts/published-cnc-assembly/</link>
+      <link>//localhost:1313/posts/published-cnc-assembly/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/published-cnc-assembly/</guid>
+      <guid>//localhost:1313/posts/published-cnc-assembly/</guid>
       <description></description>
     </item>
   </channel>

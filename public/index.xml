@@ -2,1032 +2,1032 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shayon&#39;s scrapbook V1</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on shayon&#39;s scrapbook V1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>I made my first Scrapbook website back in February, 2023&#xA;The idea was to take pictures every day, and post them on an online scrapbook along with a small description of what I did that day. It was inspired by the the Hack Club Scrapbook, which I found pretty cool. They also had a streak system that I added in V0 - my first iteration of the scrapbook. However, in V1, I decided to leave that part out.</description>
     </item>
     <item>
       <title>Finally back, with new site</title>
-      <link>/posts/finally-back/</link>
+      <link>//localhost:1313/posts/finally-back/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/finally-back/</guid>
+      <guid>//localhost:1313/posts/finally-back/</guid>
       <description></description>
     </item>
     <item>
       <title>Be right back</title>
-      <link>/posts/be-right-back/</link>
+      <link>//localhost:1313/posts/be-right-back/</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/be-right-back/</guid>
+      <guid>//localhost:1313/posts/be-right-back/</guid>
       <description></description>
     </item>
     <item>
       <title>&#39;sup</title>
-      <link>/posts/sup/</link>
+      <link>//localhost:1313/posts/sup/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/sup/</guid>
+      <guid>//localhost:1313/posts/sup/</guid>
       <description></description>
     </item>
     <item>
       <title>18650, switch</title>
-      <link>/posts/18650-switch/</link>
+      <link>//localhost:1313/posts/18650-switch/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/18650-switch/</guid>
+      <guid>//localhost:1313/posts/18650-switch/</guid>
       <description></description>
     </item>
     <item>
       <title>Restarted</title>
-      <link>/posts/restarted/</link>
+      <link>//localhost:1313/posts/restarted/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/restarted/</guid>
+      <guid>//localhost:1313/posts/restarted/</guid>
       <description></description>
     </item>
     <item>
       <title>Summer afternoon</title>
-      <link>/posts/summer-afternoon/</link>
+      <link>//localhost:1313/posts/summer-afternoon/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/summer-afternoon/</guid>
+      <guid>//localhost:1313/posts/summer-afternoon/</guid>
       <description></description>
     </item>
     <item>
       <title>Sriracha</title>
-      <link>/posts/sriracha/</link>
+      <link>//localhost:1313/posts/sriracha/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/sriracha/</guid>
+      <guid>//localhost:1313/posts/sriracha/</guid>
       <description></description>
     </item>
     <item>
       <title>Bicycle</title>
-      <link>/posts/bicycle/</link>
+      <link>//localhost:1313/posts/bicycle/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/bicycle/</guid>
+      <guid>//localhost:1313/posts/bicycle/</guid>
       <description></description>
     </item>
     <item>
       <title>焼きおにぎり, blinky</title>
-      <link>/posts/%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-blinky/</link>
+      <link>//localhost:1313/posts/%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-blinky/</link>
       <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-blinky/</guid>
+      <guid>//localhost:1313/posts/%E7%84%BC%E3%81%8D%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A-blinky/</guid>
       <description></description>
     </item>
     <item>
       <title>Updated scrapbook</title>
-      <link>/posts/updated-scrapbook/</link>
+      <link>//localhost:1313/posts/updated-scrapbook/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/updated-scrapbook/</guid>
+      <guid>//localhost:1313/posts/updated-scrapbook/</guid>
       <description></description>
     </item>
     <item>
       <title>Essays</title>
-      <link>/posts/essays/</link>
+      <link>//localhost:1313/posts/essays/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/essays/</guid>
+      <guid>//localhost:1313/posts/essays/</guid>
       <description></description>
     </item>
     <item>
       <title>Shadowing</title>
-      <link>/posts/shadowing/</link>
+      <link>//localhost:1313/posts/shadowing/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/shadowing/</guid>
+      <guid>//localhost:1313/posts/shadowing/</guid>
       <description></description>
     </item>
     <item>
       <title>Pretty skies</title>
-      <link>/posts/pretty-sky/</link>
+      <link>//localhost:1313/posts/pretty-sky/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/pretty-sky/</guid>
+      <guid>//localhost:1313/posts/pretty-sky/</guid>
       <description></description>
     </item>
     <item>
       <title>Slow progress</title>
-      <link>/posts/slow-progress/</link>
+      <link>//localhost:1313/posts/slow-progress/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/slow-progress/</guid>
+      <guid>//localhost:1313/posts/slow-progress/</guid>
       <description></description>
     </item>
     <item>
       <title>Typewriter</title>
-      <link>/posts/typewriter/</link>
+      <link>//localhost:1313/posts/typewriter/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/typewriter/</guid>
+      <guid>//localhost:1313/posts/typewriter/</guid>
       <description></description>
     </item>
     <item>
       <title>Sayonara dorm</title>
-      <link>/posts/sayonara-dorm/</link>
+      <link>//localhost:1313/posts/sayonara-dorm/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/sayonara-dorm/</guid>
+      <guid>//localhost:1313/posts/sayonara-dorm/</guid>
       <description></description>
     </item>
     <item>
       <title>Car ECU Simulator</title>
-      <link>/posts/car-ecu-simulator/</link>
+      <link>//localhost:1313/posts/car-ecu-simulator/</link>
       <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/car-ecu-simulator/</guid>
+      <guid>//localhost:1313/posts/car-ecu-simulator/</guid>
       <description></description>
     </item>
     <item>
       <title>&#34;Persistens pays off&#34;</title>
-      <link>/posts/persistens-pays-off/</link>
+      <link>//localhost:1313/posts/persistens-pays-off/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/persistens-pays-off/</guid>
+      <guid>//localhost:1313/posts/persistens-pays-off/</guid>
       <description></description>
     </item>
     <item>
       <title>Hmm</title>
-      <link>/posts/hmm/</link>
+      <link>//localhost:1313/posts/hmm/</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/hmm/</guid>
+      <guid>//localhost:1313/posts/hmm/</guid>
       <description></description>
     </item>
     <item>
       <title>🔥 Quitting FPV</title>
-      <link>/posts/-quitting-fpv/</link>
+      <link>//localhost:1313/posts/-quitting-fpv/</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/-quitting-fpv/</guid>
+      <guid>//localhost:1313/posts/-quitting-fpv/</guid>
       <description></description>
     </item>
     <item>
       <title>Resurrection, dahek?</title>
-      <link>/posts/resurrection-dahek/</link>
+      <link>//localhost:1313/posts/resurrection-dahek/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/resurrection-dahek/</guid>
+      <guid>//localhost:1313/posts/resurrection-dahek/</guid>
       <description></description>
     </item>
     <item>
       <title>終わりました</title>
-      <link>/posts/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <link>//localhost:1313/posts/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <guid>//localhost:1313/posts/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
       <description></description>
     </item>
     <item>
       <title>Sleepless nights</title>
-      <link>/posts/sleepless-nights/</link>
+      <link>//localhost:1313/posts/sleepless-nights/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/sleepless-nights/</guid>
+      <guid>//localhost:1313/posts/sleepless-nights/</guid>
       <description></description>
     </item>
     <item>
       <title>More soldering</title>
-      <link>/posts/more-soldering/</link>
+      <link>//localhost:1313/posts/more-soldering/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/more-soldering/</guid>
+      <guid>//localhost:1313/posts/more-soldering/</guid>
       <description></description>
     </item>
     <item>
       <title>Main board</title>
-      <link>/posts/main-board/</link>
+      <link>//localhost:1313/posts/main-board/</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/main-board/</guid>
+      <guid>//localhost:1313/posts/main-board/</guid>
       <description></description>
     </item>
     <item>
       <title>Schematic</title>
-      <link>/posts/schematic/</link>
+      <link>//localhost:1313/posts/schematic/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/schematic/</guid>
+      <guid>//localhost:1313/posts/schematic/</guid>
       <description></description>
     </item>
     <item>
       <title>?</title>
-      <link>/posts/490/</link>
+      <link>//localhost:1313/posts/490/</link>
       <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/490/</guid>
+      <guid>//localhost:1313/posts/490/</guid>
       <description></description>
     </item>
     <item>
       <title>CAN&#39;t, why?</title>
-      <link>/posts/cant-why/</link>
+      <link>//localhost:1313/posts/cant-why/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/cant-why/</guid>
+      <guid>//localhost:1313/posts/cant-why/</guid>
       <description></description>
     </item>
     <item>
       <title>Gauges</title>
-      <link>/posts/gauges/</link>
+      <link>//localhost:1313/posts/gauges/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/gauges/</guid>
+      <guid>//localhost:1313/posts/gauges/</guid>
       <description></description>
     </item>
     <item>
       <title>PCBs</title>
-      <link>/posts/pcbs/</link>
+      <link>//localhost:1313/posts/pcbs/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/pcbs/</guid>
+      <guid>//localhost:1313/posts/pcbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Gym</title>
-      <link>/posts/gym/</link>
+      <link>//localhost:1313/posts/gym/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/gym/</guid>
+      <guid>//localhost:1313/posts/gym/</guid>
       <description></description>
     </item>
     <item>
       <title>よかったです</title>
-      <link>/posts/%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A7%E3%81%99/</link>
+      <link>//localhost:1313/posts/%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A7%E3%81%99/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A7%E3%81%99/</guid>
+      <guid>//localhost:1313/posts/%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A7%E3%81%99/</guid>
       <description></description>
     </item>
     <item>
       <title>CAN, can I?</title>
-      <link>/posts/can-can-i/</link>
+      <link>//localhost:1313/posts/can-can-i/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/can-can-i/</guid>
+      <guid>//localhost:1313/posts/can-can-i/</guid>
       <description></description>
     </item>
     <item>
       <title>Books</title>
-      <link>/posts/books/</link>
+      <link>//localhost:1313/posts/books/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/books/</guid>
+      <guid>//localhost:1313/posts/books/</guid>
       <description></description>
     </item>
     <item>
       <title>Kyoto Tower</title>
-      <link>/posts/kyoto-tower/</link>
+      <link>//localhost:1313/posts/kyoto-tower/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/kyoto-tower/</guid>
+      <guid>//localhost:1313/posts/kyoto-tower/</guid>
       <description></description>
     </item>
     <item>
       <title>New modules, MMU2S さよなら</title>
-      <link>/posts/new-modules-mmu2s-%E3%81%95%E3%82%88%E3%81%AA%E3%82%89/</link>
+      <link>//localhost:1313/posts/new-modules-mmu2s-%E3%81%95%E3%82%88%E3%81%AA%E3%82%89/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/new-modules-mmu2s-%E3%81%95%E3%82%88%E3%81%AA%E3%82%89/</guid>
+      <guid>//localhost:1313/posts/new-modules-mmu2s-%E3%81%95%E3%82%88%E3%81%AA%E3%82%89/</guid>
       <description></description>
     </item>
     <item>
       <title>Aesthetic PCBs</title>
-      <link>/posts/aesthetic-pcbs/</link>
+      <link>//localhost:1313/posts/aesthetic-pcbs/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/aesthetic-pcbs/</guid>
+      <guid>//localhost:1313/posts/aesthetic-pcbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Eyes</title>
-      <link>/posts/eyes/</link>
+      <link>//localhost:1313/posts/eyes/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/eyes/</guid>
+      <guid>//localhost:1313/posts/eyes/</guid>
       <description></description>
     </item>
     <item>
       <title>Prototyping</title>
-      <link>/posts/prototyping/</link>
+      <link>//localhost:1313/posts/prototyping/</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/prototyping/</guid>
+      <guid>//localhost:1313/posts/prototyping/</guid>
       <description></description>
     </item>
     <item>
       <title>EasyEDA</title>
-      <link>/posts/easyeda/</link>
+      <link>//localhost:1313/posts/easyeda/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/easyeda/</guid>
+      <guid>//localhost:1313/posts/easyeda/</guid>
       <description></description>
     </item>
     <item>
       <title>Two displays!</title>
-      <link>/posts/two-displays/</link>
+      <link>//localhost:1313/posts/two-displays/</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/two-displays/</guid>
+      <guid>//localhost:1313/posts/two-displays/</guid>
       <description></description>
     </item>
     <item>
       <title>Pretty colors</title>
-      <link>/posts/pretty-colors/</link>
+      <link>//localhost:1313/posts/pretty-colors/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/pretty-colors/</guid>
+      <guid>//localhost:1313/posts/pretty-colors/</guid>
       <description></description>
     </item>
     <item>
       <title>Heated deez nutz</title>
-      <link>/posts/screws/</link>
+      <link>//localhost:1313/posts/screws/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/screws/</guid>
+      <guid>//localhost:1313/posts/screws/</guid>
       <description></description>
     </item>
     <item>
       <title>Multiple TFT displays</title>
-      <link>/posts/multiple-tft-displays/</link>
+      <link>//localhost:1313/posts/multiple-tft-displays/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/multiple-tft-displays/</guid>
+      <guid>//localhost:1313/posts/multiple-tft-displays/</guid>
       <description></description>
     </item>
     <item>
       <title>Modular design, new components</title>
-      <link>/posts/modular-design-new-components/</link>
+      <link>//localhost:1313/posts/modular-design-new-components/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/modular-design-new-components/</guid>
+      <guid>//localhost:1313/posts/modular-design-new-components/</guid>
       <description></description>
     </item>
     <item>
       <title>Even more CAD</title>
-      <link>/posts/even-more-cad/</link>
+      <link>//localhost:1313/posts/even-more-cad/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/even-more-cad/</guid>
+      <guid>//localhost:1313/posts/even-more-cad/</guid>
       <description></description>
     </item>
     <item>
       <title>Back again, ruined an OLED</title>
-      <link>/posts/back-again-ruined-an-oled/</link>
+      <link>//localhost:1313/posts/back-again-ruined-an-oled/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/back-again-ruined-an-oled/</guid>
+      <guid>//localhost:1313/posts/back-again-ruined-an-oled/</guid>
       <description></description>
     </item>
     <item>
       <title>CAD-ing connectors, sunrise</title>
-      <link>/posts/cad-ing-connectors-sunrise/</link>
+      <link>//localhost:1313/posts/cad-ing-connectors-sunrise/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/cad-ing-connectors-sunrise/</guid>
+      <guid>//localhost:1313/posts/cad-ing-connectors-sunrise/</guid>
       <description></description>
     </item>
     <item>
       <title>More CAD</title>
-      <link>/posts/more-cad/</link>
+      <link>//localhost:1313/posts/more-cad/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/more-cad/</guid>
+      <guid>//localhost:1313/posts/more-cad/</guid>
       <description></description>
     </item>
     <item>
       <title>Podcast</title>
-      <link>/posts/podcast/</link>
+      <link>//localhost:1313/posts/podcast/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/podcast/</guid>
+      <guid>//localhost:1313/posts/podcast/</guid>
       <description></description>
     </item>
     <item>
       <title>Video editing</title>
-      <link>/posts/video-editing/</link>
+      <link>//localhost:1313/posts/video-editing/</link>
       <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/video-editing/</guid>
+      <guid>//localhost:1313/posts/video-editing/</guid>
       <description></description>
     </item>
     <item>
       <title>Taught, soldered, new books</title>
-      <link>/posts/taught-soldered-new-books/</link>
+      <link>//localhost:1313/posts/taught-soldered-new-books/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/taught-soldered-new-books/</guid>
+      <guid>//localhost:1313/posts/taught-soldered-new-books/</guid>
       <description></description>
     </item>
     <item>
       <title>Reading, filming</title>
-      <link>/posts/reading-filming/</link>
+      <link>//localhost:1313/posts/reading-filming/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/reading-filming/</guid>
+      <guid>//localhost:1313/posts/reading-filming/</guid>
       <description></description>
     </item>
     <item>
       <title>Brainstorming</title>
-      <link>/posts/brainstorming/</link>
+      <link>//localhost:1313/posts/brainstorming/</link>
       <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/brainstorming/</guid>
+      <guid>//localhost:1313/posts/brainstorming/</guid>
       <description></description>
     </item>
     <item>
       <title>Sports class, coffee, light</title>
-      <link>/posts/sports-class-coffee-light/</link>
+      <link>//localhost:1313/posts/sports-class-coffee-light/</link>
       <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/sports-class-coffee-light/</guid>
+      <guid>//localhost:1313/posts/sports-class-coffee-light/</guid>
       <description></description>
     </item>
     <item>
       <title>Walk</title>
-      <link>/posts/walk/</link>
+      <link>//localhost:1313/posts/walk/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/walk/</guid>
+      <guid>//localhost:1313/posts/walk/</guid>
       <description></description>
     </item>
     <item>
       <title>Mini poster, Python, Japanese</title>
-      <link>/posts/mini-poster-python-japanese/</link>
+      <link>//localhost:1313/posts/mini-poster-python-japanese/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/mini-poster-python-japanese/</guid>
+      <guid>//localhost:1313/posts/mini-poster-python-japanese/</guid>
       <description></description>
     </item>
     <item>
       <title>Custom gauges, RTOS</title>
-      <link>/posts/custom-gauges-rtos/</link>
+      <link>//localhost:1313/posts/custom-gauges-rtos/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/custom-gauges-rtos/</guid>
+      <guid>//localhost:1313/posts/custom-gauges-rtos/</guid>
       <description></description>
     </item>
     <item>
       <title>Apartment hunting</title>
-      <link>/posts/apartment-hunting/</link>
+      <link>//localhost:1313/posts/apartment-hunting/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/apartment-hunting/</guid>
+      <guid>//localhost:1313/posts/apartment-hunting/</guid>
       <description></description>
     </item>
     <item>
       <title>RGB done 🔴🟢🔵✅</title>
-      <link>/posts/rgb-done-/</link>
+      <link>//localhost:1313/posts/rgb-done-/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/rgb-done-/</guid>
+      <guid>//localhost:1313/posts/rgb-done-/</guid>
       <description></description>
     </item>
     <item>
       <title>Photo tent</title>
-      <link>/posts/photo-tent/</link>
+      <link>//localhost:1313/posts/photo-tent/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/photo-tent/</guid>
+      <guid>//localhost:1313/posts/photo-tent/</guid>
       <description></description>
     </item>
     <item>
       <title>Pasmo; more cashlessness</title>
-      <link>/posts/pasmo-more-cashlessness/</link>
+      <link>//localhost:1313/posts/pasmo-more-cashlessness/</link>
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/pasmo-more-cashlessness/</guid>
+      <guid>//localhost:1313/posts/pasmo-more-cashlessness/</guid>
       <description></description>
     </item>
     <item>
       <title>Long, tiring day</title>
-      <link>/posts/long-tiring-day/</link>
+      <link>//localhost:1313/posts/long-tiring-day/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/long-tiring-day/</guid>
+      <guid>//localhost:1313/posts/long-tiring-day/</guid>
       <description></description>
     </item>
     <item>
       <title>Malfunction, CircuitPython, CAD</title>
-      <link>/posts/malfunction-circuitpython-cad/</link>
+      <link>//localhost:1313/posts/malfunction-circuitpython-cad/</link>
       <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/malfunction-circuitpython-cad/</guid>
+      <guid>//localhost:1313/posts/malfunction-circuitpython-cad/</guid>
       <description></description>
     </item>
     <item>
       <title>Finished reading, Github</title>
-      <link>/posts/finished-reading-github/</link>
+      <link>//localhost:1313/posts/finished-reading-github/</link>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/finished-reading-github/</guid>
+      <guid>//localhost:1313/posts/finished-reading-github/</guid>
       <description></description>
     </item>
     <item>
       <title>Rain</title>
-      <link>/posts/rain/</link>
+      <link>//localhost:1313/posts/rain/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/rain/</guid>
+      <guid>//localhost:1313/posts/rain/</guid>
       <description></description>
     </item>
     <item>
       <title>Fixed</title>
-      <link>/posts/fixed-2/</link>
+      <link>//localhost:1313/posts/fixed-2/</link>
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/fixed-2/</guid>
+      <guid>//localhost:1313/posts/fixed-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Sunrise, coursework, ASME</title>
-      <link>/posts/sunrise-coursework-asme/</link>
+      <link>//localhost:1313/posts/sunrise-coursework-asme/</link>
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/sunrise-coursework-asme/</guid>
+      <guid>//localhost:1313/posts/sunrise-coursework-asme/</guid>
       <description></description>
     </item>
     <item>
       <title>Re-iteration</title>
-      <link>/posts/re-iteration/</link>
+      <link>//localhost:1313/posts/re-iteration/</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/re-iteration/</guid>
+      <guid>//localhost:1313/posts/re-iteration/</guid>
       <description></description>
     </item>
     <item>
       <title>Iterations</title>
-      <link>/posts/iterations/</link>
+      <link>//localhost:1313/posts/iterations/</link>
       <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/iterations/</guid>
+      <guid>//localhost:1313/posts/iterations/</guid>
       <description></description>
     </item>
     <item>
       <title>VueJS, NaiveUI &amp; Python</title>
-      <link>/posts/vuejs-naiveui-python/</link>
+      <link>//localhost:1313/posts/vuejs-naiveui-python/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/vuejs-naiveui-python/</guid>
+      <guid>//localhost:1313/posts/vuejs-naiveui-python/</guid>
       <description></description>
     </item>
     <item>
       <title>Unproductive day</title>
-      <link>/posts/unproductive-day/</link>
+      <link>//localhost:1313/posts/unproductive-day/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/unproductive-day/</guid>
+      <guid>//localhost:1313/posts/unproductive-day/</guid>
       <description></description>
     </item>
     <item>
       <title>Rain, thrifting</title>
-      <link>/posts/rain-thrifting/</link>
+      <link>//localhost:1313/posts/rain-thrifting/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/rain-thrifting/</guid>
+      <guid>//localhost:1313/posts/rain-thrifting/</guid>
       <description></description>
     </item>
     <item>
       <title>Toured</title>
-      <link>/posts/toured/</link>
+      <link>//localhost:1313/posts/toured/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/toured/</guid>
+      <guid>//localhost:1313/posts/toured/</guid>
       <description></description>
     </item>
     <item>
       <title>Fixed, read</title>
-      <link>/posts/fixed-read/</link>
+      <link>//localhost:1313/posts/fixed-read/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/fixed-read/</guid>
+      <guid>//localhost:1313/posts/fixed-read/</guid>
       <description></description>
     </item>
     <item>
       <title>Front-end, pizza, reading</title>
-      <link>/posts/front-end-pizza-reading/</link>
+      <link>//localhost:1313/posts/front-end-pizza-reading/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/front-end-pizza-reading/</guid>
+      <guid>//localhost:1313/posts/front-end-pizza-reading/</guid>
       <description></description>
     </item>
     <item>
       <title>Makezine, Coding</title>
-      <link>/posts/makezine-coding/</link>
+      <link>//localhost:1313/posts/makezine-coding/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/makezine-coding/</guid>
+      <guid>//localhost:1313/posts/makezine-coding/</guid>
       <description></description>
     </item>
     <item>
       <title>WS2812 again</title>
-      <link>/posts/ws2812-almost-again/</link>
+      <link>//localhost:1313/posts/ws2812-almost-again/</link>
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/ws2812-almost-again/</guid>
+      <guid>//localhost:1313/posts/ws2812-almost-again/</guid>
       <description></description>
     </item>
     <item>
       <title>MAKER FAIRE</title>
-      <link>/posts/maker-faire/</link>
+      <link>//localhost:1313/posts/maker-faire/</link>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/maker-faire/</guid>
+      <guid>//localhost:1313/posts/maker-faire/</guid>
       <description></description>
     </item>
     <item>
       <title>Cooking, reading</title>
-      <link>/posts/cooking-reading/</link>
+      <link>//localhost:1313/posts/cooking-reading/</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/cooking-reading/</guid>
+      <guid>//localhost:1313/posts/cooking-reading/</guid>
       <description></description>
     </item>
     <item>
       <title>LDR, lM35</title>
-      <link>/posts/ldr-lm35/</link>
+      <link>//localhost:1313/posts/ldr-lm35/</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/ldr-lm35/</guid>
+      <guid>//localhost:1313/posts/ldr-lm35/</guid>
       <description></description>
     </item>
     <item>
       <title>RPIs</title>
-      <link>/posts/rpis/</link>
+      <link>//localhost:1313/posts/rpis/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/rpis/</guid>
+      <guid>//localhost:1313/posts/rpis/</guid>
       <description></description>
     </item>
     <item>
       <title>Finished Hardware Hacker</title>
-      <link>/posts/finished-hardware-hacker/</link>
+      <link>//localhost:1313/posts/finished-hardware-hacker/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/finished-hardware-hacker/</guid>
+      <guid>//localhost:1313/posts/finished-hardware-hacker/</guid>
       <description></description>
     </item>
     <item>
       <title>Cooking</title>
-      <link>/posts/cooking/</link>
+      <link>//localhost:1313/posts/cooking/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/cooking/</guid>
+      <guid>//localhost:1313/posts/cooking/</guid>
       <description></description>
     </item>
     <item>
       <title>Junk Hunting</title>
-      <link>/posts/junk-hunting/</link>
+      <link>//localhost:1313/posts/junk-hunting/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/junk-hunting/</guid>
+      <guid>//localhost:1313/posts/junk-hunting/</guid>
       <description></description>
     </item>
     <item>
       <title>New design, flying, toasted VTX</title>
-      <link>/posts/new-design-flying-toasted-vtx/</link>
+      <link>//localhost:1313/posts/new-design-flying-toasted-vtx/</link>
       <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/new-design-flying-toasted-vtx/</guid>
+      <guid>//localhost:1313/posts/new-design-flying-toasted-vtx/</guid>
       <description></description>
     </item>
     <item>
       <title>CNC　Milling　Machine 終わりました！！</title>
-      <link>/posts/cnc-milling-machine-%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <link>//localhost:1313/posts/cnc-milling-machine-%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/cnc-milling-machine-%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <guid>//localhost:1313/posts/cnc-milling-machine-%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
       <description></description>
     </item>
     <item>
       <title>Lights, sound, action!</title>
-      <link>/posts/lights-sound-action/</link>
+      <link>//localhost:1313/posts/lights-sound-action/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/lights-sound-action/</guid>
+      <guid>//localhost:1313/posts/lights-sound-action/</guid>
       <description></description>
     </item>
     <item>
       <title>Toasted flight controller, FPV RC car</title>
-      <link>/posts/toasted-flight-controller-fpv-rc-car/</link>
+      <link>//localhost:1313/posts/toasted-flight-controller-fpv-rc-car/</link>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/toasted-flight-controller-fpv-rc-car/</guid>
+      <guid>//localhost:1313/posts/toasted-flight-controller-fpv-rc-car/</guid>
       <description></description>
     </item>
     <item>
       <title>Early morning, daisy-chaining, meeting</title>
-      <link>/posts/early-morning-daisy-chaining-meeting/</link>
+      <link>//localhost:1313/posts/early-morning-daisy-chaining-meeting/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/early-morning-daisy-chaining-meeting/</guid>
+      <guid>//localhost:1313/posts/early-morning-daisy-chaining-meeting/</guid>
       <description></description>
     </item>
     <item>
       <title>How Senna died</title>
-      <link>/posts/how-senna-died/</link>
+      <link>//localhost:1313/posts/how-senna-died/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/how-senna-died/</guid>
+      <guid>//localhost:1313/posts/how-senna-died/</guid>
       <description></description>
     </item>
     <item>
       <title>74HC595</title>
-      <link>/posts/74hc595/</link>
+      <link>//localhost:1313/posts/74hc595/</link>
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/74hc595/</guid>
+      <guid>//localhost:1313/posts/74hc595/</guid>
       <description></description>
     </item>
     <item>
       <title>Expectation vs. Reality</title>
-      <link>/posts/expectation-vs-reality/</link>
+      <link>//localhost:1313/posts/expectation-vs-reality/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/expectation-vs-reality/</guid>
+      <guid>//localhost:1313/posts/expectation-vs-reality/</guid>
       <description></description>
     </item>
     <item>
       <title>Enclosure design</title>
-      <link>/posts/enclosure-design/</link>
+      <link>//localhost:1313/posts/enclosure-design/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/enclosure-design/</guid>
+      <guid>//localhost:1313/posts/enclosure-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Selectively morning person</title>
-      <link>/posts/introduction-to-design-course/</link>
+      <link>//localhost:1313/posts/introduction-to-design-course/</link>
       <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/introduction-to-design-course/</guid>
+      <guid>//localhost:1313/posts/introduction-to-design-course/</guid>
       <description></description>
     </item>
     <item>
       <title>Productive day</title>
-      <link>/posts/productive-day/</link>
+      <link>//localhost:1313/posts/productive-day/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/productive-day/</guid>
+      <guid>//localhost:1313/posts/productive-day/</guid>
       <description></description>
     </item>
     <item>
       <title>いしょがし</title>
-      <link>/posts/%E3%81%84%E3%81%97%E3%82%87%E3%81%8C%E3%81%97/</link>
+      <link>//localhost:1313/posts/%E3%81%84%E3%81%97%E3%82%87%E3%81%8C%E3%81%97/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/%E3%81%84%E3%81%97%E3%82%87%E3%81%8C%E3%81%97/</guid>
+      <guid>//localhost:1313/posts/%E3%81%84%E3%81%97%E3%82%87%E3%81%8C%E3%81%97/</guid>
       <description></description>
     </item>
     <item>
       <title>Maintenance</title>
-      <link>/posts/maintenance/</link>
+      <link>//localhost:1313/posts/maintenance/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/maintenance/</guid>
+      <guid>//localhost:1313/posts/maintenance/</guid>
       <description></description>
     </item>
     <item>
       <title>More meal-prepping, walk, reading</title>
-      <link>/posts/more-meal-prepping-walk-reading/</link>
+      <link>//localhost:1313/posts/more-meal-prepping-walk-reading/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/more-meal-prepping-walk-reading/</guid>
+      <guid>//localhost:1313/posts/more-meal-prepping-walk-reading/</guid>
       <description></description>
     </item>
     <item>
       <title>VS Code, Platform IO &amp; Arduino</title>
-      <link>/posts/vs-code-platform-io-arduino/</link>
+      <link>//localhost:1313/posts/vs-code-platform-io-arduino/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/vs-code-platform-io-arduino/</guid>
+      <guid>//localhost:1313/posts/vs-code-platform-io-arduino/</guid>
       <description></description>
     </item>
     <item>
       <title>Meal-prepping, reading</title>
-      <link>/posts/meal-prepping-reading/</link>
+      <link>//localhost:1313/posts/meal-prepping-reading/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/meal-prepping-reading/</guid>
+      <guid>//localhost:1313/posts/meal-prepping-reading/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows broke again, coding, more CNC</title>
-      <link>/posts/windows-broke-again-coding-more-cnc/</link>
+      <link>//localhost:1313/posts/windows-broke-again-coding-more-cnc/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/windows-broke-again-coding-more-cnc/</guid>
+      <guid>//localhost:1313/posts/windows-broke-again-coding-more-cnc/</guid>
       <description></description>
     </item>
     <item>
       <title>Fixed, CNC again</title>
-      <link>/posts/fixed-cnc-again/</link>
+      <link>//localhost:1313/posts/fixed-cnc-again/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/fixed-cnc-again/</guid>
+      <guid>//localhost:1313/posts/fixed-cnc-again/</guid>
       <description></description>
     </item>
     <item>
       <title>What did go wrong</title>
-      <link>/posts/what-did-go-wrong/</link>
+      <link>//localhost:1313/posts/what-did-go-wrong/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/what-did-go-wrong/</guid>
+      <guid>//localhost:1313/posts/what-did-go-wrong/</guid>
       <description></description>
     </item>
     <item>
       <title>Reading, 10-year old PC</title>
-      <link>/posts/reading-10-year-old-pc/</link>
+      <link>//localhost:1313/posts/reading-10-year-old-pc/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/reading-10-year-old-pc/</guid>
+      <guid>//localhost:1313/posts/reading-10-year-old-pc/</guid>
       <description></description>
     </item>
     <item>
       <title>Meal-prep</title>
-      <link>/posts/meal-prep/</link>
+      <link>//localhost:1313/posts/meal-prep/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/meal-prep/</guid>
+      <guid>//localhost:1313/posts/meal-prep/</guid>
       <description></description>
     </item>
     <item>
       <title>More ROS</title>
-      <link>/posts/more-ros/</link>
+      <link>//localhost:1313/posts/more-ros/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/more-ros/</guid>
+      <guid>//localhost:1313/posts/more-ros/</guid>
       <description></description>
     </item>
     <item>
       <title>Robot Operating System</title>
-      <link>/posts/robot-operating-system/</link>
+      <link>//localhost:1313/posts/robot-operating-system/</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/robot-operating-system/</guid>
+      <guid>//localhost:1313/posts/robot-operating-system/</guid>
       <description></description>
     </item>
     <item>
       <title>Fixed, again</title>
-      <link>/posts/fixed-again/</link>
+      <link>//localhost:1313/posts/fixed-again/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/fixed-again/</guid>
+      <guid>//localhost:1313/posts/fixed-again/</guid>
       <description></description>
     </item>
     <item>
       <title>Roboto</title>
-      <link>/posts/roboto/</link>
+      <link>//localhost:1313/posts/roboto/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/roboto/</guid>
+      <guid>//localhost:1313/posts/roboto/</guid>
       <description></description>
     </item>
     <item>
       <title>Wrote</title>
-      <link>/posts/wrote-2/</link>
+      <link>//localhost:1313/posts/wrote-2/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/wrote-2/</guid>
+      <guid>//localhost:1313/posts/wrote-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Fixed</title>
-      <link>/posts/fixed/</link>
+      <link>//localhost:1313/posts/fixed/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/fixed/</guid>
+      <guid>//localhost:1313/posts/fixed/</guid>
       <description></description>
     </item>
     <item>
       <title>New library</title>
-      <link>/posts/new-library/</link>
+      <link>//localhost:1313/posts/new-library/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/new-library/</guid>
+      <guid>//localhost:1313/posts/new-library/</guid>
       <description></description>
     </item>
     <item>
       <title>Poster, PAJ7620 working</title>
-      <link>/posts/poster-paj7620-working/</link>
+      <link>//localhost:1313/posts/poster-paj7620-working/</link>
       <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/poster-paj7620-working/</guid>
+      <guid>//localhost:1313/posts/poster-paj7620-working/</guid>
       <description></description>
     </item>
     <item>
       <title>サクラ, ESP32S2, cookies</title>
-      <link>/posts/%E3%82%B5%E3%82%AF%E3%83%A9-esp32s2-cookies/</link>
+      <link>//localhost:1313/posts/%E3%82%B5%E3%82%AF%E3%83%A9-esp32s2-cookies/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/%E3%82%B5%E3%82%AF%E3%83%A9-esp32s2-cookies/</guid>
+      <guid>//localhost:1313/posts/%E3%82%B5%E3%82%AF%E3%83%A9-esp32s2-cookies/</guid>
       <description></description>
     </item>
     <item>
       <title>Back to FPV, new components, 3D printing failures</title>
-      <link>/posts/back-to-fpv-new-components-3d-printing-failures/</link>
+      <link>//localhost:1313/posts/back-to-fpv-new-components-3d-printing-failures/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/back-to-fpv-new-components-3d-printing-failures/</guid>
+      <guid>//localhost:1313/posts/back-to-fpv-new-components-3d-printing-failures/</guid>
       <description></description>
     </item>
     <item>
       <title>Chumby, fun, no easy days</title>
-      <link>/posts/chumby-fun-no-easy-days/</link>
+      <link>//localhost:1313/posts/chumby-fun-no-easy-days/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/chumby-fun-no-easy-days/</guid>
+      <guid>//localhost:1313/posts/chumby-fun-no-easy-days/</guid>
       <description></description>
     </item>
     <item>
       <title>JLCPCB, Fake FPGA, Photography</title>
-      <link>/posts/jlcpcb-fake-fpga-photography/</link>
+      <link>//localhost:1313/posts/jlcpcb-fake-fpga-photography/</link>
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/jlcpcb-fake-fpga-photography/</guid>
+      <guid>//localhost:1313/posts/jlcpcb-fake-fpga-photography/</guid>
       <description></description>
     </item>
     <item>
       <title>Hybrid work, 3D printing, fun (Pt. 1)</title>
-      <link>/posts/hybrid-work-3d-printing-fun-pt-1/</link>
+      <link>//localhost:1313/posts/hybrid-work-3d-printing-fun-pt-1/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/hybrid-work-3d-printing-fun-pt-1/</guid>
+      <guid>//localhost:1313/posts/hybrid-work-3d-printing-fun-pt-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Hybrid work, 3D printing, fun (Pt. 2)</title>
-      <link>/posts/hybrid-work-3d-printing-fun-pt-2/</link>
+      <link>//localhost:1313/posts/hybrid-work-3d-printing-fun-pt-2/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/hybrid-work-3d-printing-fun-pt-2/</guid>
+      <guid>//localhost:1313/posts/hybrid-work-3d-printing-fun-pt-2/</guid>
       <description></description>
     </item>
     <item>
       <title>SDR, new desk setup,  DFM, Shanzhai and Gongkai</title>
-      <link>/posts/sdr-new-desk-setup-dfm-shanzhai-and-gokai/</link>
+      <link>//localhost:1313/posts/sdr-new-desk-setup-dfm-shanzhai-and-gokai/</link>
       <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/sdr-new-desk-setup-dfm-shanzhai-and-gokai/</guid>
+      <guid>//localhost:1313/posts/sdr-new-desk-setup-dfm-shanzhai-and-gokai/</guid>
       <description></description>
     </item>
     <item>
       <title>Open Campus Day</title>
-      <link>/posts/open-campus-day/</link>
+      <link>//localhost:1313/posts/open-campus-day/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/open-campus-day/</guid>
+      <guid>//localhost:1313/posts/open-campus-day/</guid>
       <description></description>
     </item>
     <item>
       <title>Watched, read, China?</title>
-      <link>/posts/watched-read-china/</link>
+      <link>//localhost:1313/posts/watched-read-china/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/watched-read-china/</guid>
+      <guid>//localhost:1313/posts/watched-read-china/</guid>
       <description></description>
     </item>
     <item>
       <title>Happy Birthday, Laptop Stand</title>
-      <link>/posts/happy-birthday-laptop-stand/</link>
+      <link>//localhost:1313/posts/happy-birthday-laptop-stand/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/happy-birthday-laptop-stand/</guid>
+      <guid>//localhost:1313/posts/happy-birthday-laptop-stand/</guid>
       <description></description>
     </item>
     <item>
       <title>Coding, all-nighters</title>
-      <link>/posts/coding-all-nighters/</link>
+      <link>//localhost:1313/posts/coding-all-nighters/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/coding-all-nighters/</guid>
+      <guid>//localhost:1313/posts/coding-all-nighters/</guid>
       <description></description>
     </item>
     <item>
       <title>Post-all-nighter memory</title>
-      <link>/posts/post-all-nighter-memory/</link>
+      <link>//localhost:1313/posts/post-all-nighter-memory/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/post-all-nighter-memory/</guid>
+      <guid>//localhost:1313/posts/post-all-nighter-memory/</guid>
       <description></description>
     </item>
     <item>
       <title>Spindle, Altium Designer vs. KiCAD</title>
-      <link>/posts/spindle-altium-designer-vs-kicad/</link>
+      <link>//localhost:1313/posts/spindle-altium-designer-vs-kicad/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/spindle-altium-designer-vs-kicad/</guid>
+      <guid>//localhost:1313/posts/spindle-altium-designer-vs-kicad/</guid>
       <description></description>
     </item>
     <item>
       <title>Broken Connector, Windows 11, JLCPCB</title>
-      <link>/posts/broken-connector-windows-11-jlcpcb/</link>
+      <link>//localhost:1313/posts/broken-connector-windows-11-jlcpcb/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/broken-connector-windows-11-jlcpcb/</guid>
+      <guid>//localhost:1313/posts/broken-connector-windows-11-jlcpcb/</guid>
       <description></description>
     </item>
     <item>
       <title>New project idea, Aliexpress haul</title>
-      <link>/posts/new-project-idea-aliexpress-haul/</link>
+      <link>//localhost:1313/posts/new-project-idea-aliexpress-haul/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/new-project-idea-aliexpress-haul/</guid>
+      <guid>//localhost:1313/posts/new-project-idea-aliexpress-haul/</guid>
       <description></description>
     </item>
     <item>
       <title>Coding, printing, CNC, piano-playing robot</title>
-      <link>/posts/coding-printing-cnc-piano-playing-robot/</link>
+      <link>//localhost:1313/posts/coding-printing-cnc-piano-playing-robot/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/coding-printing-cnc-piano-playing-robot/</guid>
+      <guid>//localhost:1313/posts/coding-printing-cnc-piano-playing-robot/</guid>
       <description></description>
     </item>
     <item>
       <title>GreatScott, LiFePo4 VMware</title>
-      <link>/posts/greatscott-lifepo4-vmware/</link>
+      <link>//localhost:1313/posts/greatscott-lifepo4-vmware/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/greatscott-lifepo4-vmware/</guid>
+      <guid>//localhost:1313/posts/greatscott-lifepo4-vmware/</guid>
       <description></description>
     </item>
     <item>
       <title>First tinywhoop</title>
-      <link>/posts/first-tinywhoop/</link>
+      <link>//localhost:1313/posts/first-tinywhoop/</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/first-tinywhoop/</guid>
+      <guid>//localhost:1313/posts/first-tinywhoop/</guid>
       <description></description>
     </item>
     <item>
       <title>Groot, CNC, Frsky D8/D16</title>
-      <link>/posts/groot-cnc-frsky-d8-d16/</link>
+      <link>//localhost:1313/posts/groot-cnc-frsky-d8-d16/</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/groot-cnc-frsky-d8-d16/</guid>
+      <guid>//localhost:1313/posts/groot-cnc-frsky-d8-d16/</guid>
       <description></description>
     </item>
     <item>
       <title>Fixed, printed, read</title>
-      <link>/posts/fixed-printed-read/</link>
+      <link>//localhost:1313/posts/fixed-printed-read/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/fixed-printed-read/</guid>
+      <guid>//localhost:1313/posts/fixed-printed-read/</guid>
       <description></description>
     </item>
     <item>
       <title>Unproductive day, scavenged (almost)</title>
-      <link>/posts/unproductive-day-scavenged-almost/</link>
+      <link>//localhost:1313/posts/unproductive-day-scavenged-almost/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/unproductive-day-scavenged-almost/</guid>
+      <guid>//localhost:1313/posts/unproductive-day-scavenged-almost/</guid>
       <description></description>
     </item>
     <item>
       <title>New Website</title>
-      <link>/posts/built/</link>
+      <link>//localhost:1313/posts/built/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/built/</guid>
+      <guid>//localhost:1313/posts/built/</guid>
       <description></description>
     </item>
     <item>
       <title>258 grams</title>
-      <link>/posts/258-grams/</link>
+      <link>//localhost:1313/posts/258-grams/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/258-grams/</guid>
+      <guid>//localhost:1313/posts/258-grams/</guid>
       <description></description>
     </item>
     <item>
       <title>CNC Assembly!</title>
-      <link>/posts/cnc-assembly/</link>
+      <link>//localhost:1313/posts/cnc-assembly/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/cnc-assembly/</guid>
+      <guid>//localhost:1313/posts/cnc-assembly/</guid>
       <description></description>
     </item>
     <item>
       <title>Published, CNC Assembly?</title>
-      <link>/posts/published-cnc-assembly/</link>
+      <link>//localhost:1313/posts/published-cnc-assembly/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/published-cnc-assembly/</guid>
+      <guid>//localhost:1313/posts/published-cnc-assembly/</guid>
       <description></description>
     </item>
     <item>
       <title>Tired, good deal</title>
-      <link>/posts/tired-good-deal/</link>
+      <link>//localhost:1313/posts/tired-good-deal/</link>
       <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/tired-good-deal/</guid>
+      <guid>//localhost:1313/posts/tired-good-deal/</guid>
       <description></description>
     </item>
     <item>
       <title>Failed, learned, finished</title>
-      <link>/posts/failed-learned-finished/</link>
+      <link>//localhost:1313/posts/failed-learned-finished/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/failed-learned-finished/</guid>
+      <guid>//localhost:1313/posts/failed-learned-finished/</guid>
       <description></description>
     </item>
     <item>
       <title>Wrote, Read, Contemplated</title>
-      <link>/posts/wrote-read-contemplated/</link>
+      <link>//localhost:1313/posts/wrote-read-contemplated/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/wrote-read-contemplated/</guid>
+      <guid>//localhost:1313/posts/wrote-read-contemplated/</guid>
       <description></description>
     </item>
     <item>
       <title>Wrote</title>
-      <link>/posts/wrote/</link>
+      <link>//localhost:1313/posts/wrote/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/wrote/</guid>
+      <guid>//localhost:1313/posts/wrote/</guid>
       <description></description>
     </item>
     <item>
       <title>Learnt PCB fabrication, designed, printed</title>
-      <link>/posts/learnt-pcb-fabrication-designed-printed/</link>
+      <link>//localhost:1313/posts/learnt-pcb-fabrication-designed-printed/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/learnt-pcb-fabrication-designed-printed/</guid>
+      <guid>//localhost:1313/posts/learnt-pcb-fabrication-designed-printed/</guid>
       <description></description>
     </item>
     <item>
       <title>Wrote, designed, printed</title>
-      <link>/posts/wrote-designed-printed/</link>
+      <link>//localhost:1313/posts/wrote-designed-printed/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/wrote-designed-printed/</guid>
+      <guid>//localhost:1313/posts/wrote-designed-printed/</guid>
       <description></description>
     </item>
   </channel>
