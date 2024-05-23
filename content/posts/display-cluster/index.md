@@ -1,6 +1,6 @@
 ---
 
-title: "Template"
+title: "Troubleshooting display cluster"
 date: "2024-05-19"
 
 coverImage: "dcluster.jpeg"
