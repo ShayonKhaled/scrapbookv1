@@ -14,7 +14,7 @@ This was my first scrapbook, the V0. Something I put together quickly to start. 
 
 It ran fine for a few months. Then I stopped scrapbooking in December. Here’s why.
 
-## Entry  from December 5, 2023, "Be right back"
+**Entry  from December 5, 2023, "Be right back"**
 
 ```
 I stopped posting after August because my site got slow to the point that it would literally take 2-3 minutes for the editing tools to load and then another few for the photo to upload. Since I’m hosting the images directly on this shared server (bad idea), I suspect having so many pictures is what causing it.
