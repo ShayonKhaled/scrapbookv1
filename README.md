@@ -1,6 +1,6 @@
-**TLDR: Find my scrapbook where I post my daily updates here: http://scrapbook.shayonkhaled.com
+### **TLDR: Find my scrapbook where I post my daily updates here: http://scrapbook.shayonkhaled.com**
 
-Read below for the lore. **
+### **Read below for the lore.**
 
 I made my first Scrapbook website back in February, 2023
 
@@ -27,6 +27,6 @@ Until May 1, 2024 happened. I don’t know if it was just me being bored or the 
 
 Let’s see how it goes this time.
 
-**
-Framwork used: Hugo 
-Hosted on: Netlify**
+
+**Framwork used: Hugo**
+**Hosted on: Netlify**
