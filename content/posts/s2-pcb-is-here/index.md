@@ -3,7 +3,7 @@
 title: "S2 Controller Board - the PCB is here"
 date: "2024-05-31"
 
-coverImage: "heres2"
+coverImage: "heres2.jpeg"
 ---
 <!--more-->
 
