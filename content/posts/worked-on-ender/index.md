@@ -1,6 +1,6 @@
 ---
 title: "Worked on the Ender"
-date: "2024-05-06"
+date: "2024-06-06"
 
 coverImage: "enderdin.jpeg"
 ---

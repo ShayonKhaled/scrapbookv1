@@ -1,7 +1,7 @@
 ---
 
 title: "Assembled S2 Controller Board"
-date: "2024-05-02"
+date: "2024-06-02"
 
 coverImage: "s2doneyay.jpeg"
 ---
