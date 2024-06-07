@@ -1,6 +1,6 @@
 ---
 title: "Left it running for a day"
-date: "2024-05-02"
+date: "2024-06-03"
 
 coverImage: "leftrunning.jpeg"
 ---
