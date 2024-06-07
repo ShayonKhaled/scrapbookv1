@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "S2_Controller_Board",
+			"path": "../../Documents/PlatformIO/Projects/S2_Controller_Board"
 		}
 	],
 	"settings": {}
